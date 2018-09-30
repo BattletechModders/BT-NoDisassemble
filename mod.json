@@ -1,0 +1,18 @@
+{
+  "Name": "NoDisassemble",
+  "Enabled": true,
+
+  "Version": "0.0.1",
+
+  "Author": "janxious",
+  "Website": "https://github.com/janxious/BT-NoDisassemble",
+
+  "DLL": "NoDisassemble.dll",
+  "DLLEntryPoint": "NoDisassemble.Core.Init",
+  "DependsOn": [],
+  "ConflictsWith": [],
+
+  "Settings": {
+    "Debug": true
+  }
+}
