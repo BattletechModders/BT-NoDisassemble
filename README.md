@@ -1,3 +1,5 @@
+# *This is not functional, but still in prototype stage*
+
 # No Disassemble
 
 A mod for HBS's BattleTech:Game that allows you to not assemble mechs when you get above the mech part threshold.
